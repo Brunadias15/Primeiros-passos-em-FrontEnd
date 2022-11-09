@@ -1,0 +1,198 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.belgica{
+	width: 300px;
+	height: 150px;
+	background-color: black;
+	float: left;
+}
+
+
+.b1{
+	width: 100px;
+	height: 150px;
+	background-color: black;
+}
+
+.b2{
+	width: 100px;
+	height: 150px;
+	background-color: #FAE042;
+}
+
+.b3{
+	width: 100px;
+	height: 150px;
+	background-color: #Ed2939;
+}
+
+.b1, .b2, .b3{
+	float: left;
+}
+
+.canada{
+	width: 300px;
+	height: 150px;
+	background-color: #D52B1E;
+	position: relative;
+	float: left;
+	margin-left: 10px;
+
+}
+
+.c1{
+	width: 100px;
+	height: 150px;
+	background-color: white;
+	position: absolute;
+	left: 100px
+}
+
+.img{
+	width: 50px;
+	height: 70px;
+	background-color: white;
+	margin-left: 25px;
+	margin-top: 40px;
+}
+
+.usa{
+	width: 300px;
+	height: 150px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	clear: both;	
+}
+
+.u1{
+	width: 130px;
+	height: 80px;
+	background-color: #3B3B6D;
+	float: left;
+}
+
+.u2, .u4, .u6, .u8, .u10, .u12, .u14{
+	width: 300px;
+	height: 11.5px;
+	background-color: #B51F38;
+}
+
+.u3, .u5, .u7, .u9, .u11, .u13{
+	width: 300px;
+	height: 11.5px;
+	background-color: white;
+}
+
+
+
+.suica{
+	width: 300px;
+	height: 150px;
+	background-color: red;
+	position: relative;
+	float: left;
+	margin-left: 10px;
+	margin-top:15px;
+}
+
+.s1{
+	width: 35px;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+	left: 132px;
+	top: 25px;
+}
+.s2{
+	width: 100px;
+	height: 35px;
+	background-color: white;
+	position: absolute;
+	left: 100px;
+	top: 60px;
+}
+
+.japao{
+	width: 300px;
+	height: 150px;
+	background-color: white;
+	float: left;
+	position: relative;
+	top: 15px;
+	clear: both;
+
+}
+.j1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	left: 100px;
+	top: 25px;
+	border-radius: 50%; 
+	position: absolute;
+	
+}
+
+.islandia{
+	width: 300px;
+	height: 150px;
+	background-color: white;
+	position: relative;
+	float: left;
+	margin-left: 10px;
+	margin-top:15px;
+
+
+}
+
+.i1, .i4{
+	width: 58.5px;
+	height: 58.5px;
+	background-color: #003897;
+	margin-bottom: 10px;
+	float: left;
+
+}
+
+.i2{
+	width: 208.5px;
+	height: 58.5px;
+	background-color: #003897;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 91.5px;
+	position: absolute;
+}
+
+.i3{
+	width: 300px;
+	height: 13px;
+	background-color: red;
+	position: relative;
+	float: left;
+	margin-bottom: 10px;
+
+}
+
+
+.i5{
+	width: 13px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	float: left;
+	margin-left: 70px;
+}
+
+
+
+.i6{
+	width: 208.5px;
+	height: 58.5px;
+	background-color: #003897;
+	float: right;
+}
