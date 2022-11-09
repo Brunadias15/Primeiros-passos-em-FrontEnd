@@ -1,0 +1,187 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.header{
+	height: 30px;
+	margin: 0px auto;
+	background-color: #123A6A;
+	font-size: 10px;
+	color: white;
+	width: 100%;
+    padding-top: 15px;
+    position: relative;
+
+}
+.nav, .parte2, .logo{
+	padding-left: 100px;
+}
+
+.rs, .publi1, .publi2, .publi{
+	float: right;
+
+}
+
+.rs{
+	position: absolute;
+	top: 15px;
+	right: 10%;
+}
+.whats{
+	padding-left: 30px;
+}
+.parte2{
+	padding-bottom: 20px;
+	padding-top: 10px;
+	font-size: 15px;
+	color: #123A6A;
+	border-bottom: 5px solid #123A6A;
+    background-color: #DCDCDC;
+}
+.menu{
+	position: relative;
+	top: 30px;
+}
+.logo {
+	width: 20%;
+}
+
+.parte3, .delegacia, .crianca, .corona{
+	float: left;
+}
+.parte3{
+  width:85%;
+  height:60px;
+  background-color:#123A6A;
+  position: relative; 
+  top: 10px;
+  left: 100px;
+}
+.delegacia, .crianca, .publi{
+	padding-top: 80px;
+	position: relative;
+}
+.delegacia{
+	width: 500px;
+	height: 300px;
+ 	padding-right: 20px;
+}
+
+.crianca{
+	height: 160px;
+ 	padding-left: 60px;
+ 	padding-bottom: 40px;
+}
+
+.publi{
+    padding-right: 205px;
+	font-size: 7px;
+	color: #C0C0C0;
+}
+.publi1{
+	height: 190px;
+	padding-bottom: 5px;
+}
+.corona{
+	height: 160px;
+    padding-top: 10px;
+ 	padding-left: 60px;
+ 	padding-bottom: 20px;
+}
+.publi2{
+	height: 200px;
+}
+.crianca, .publi1, .publi2, .corona{
+	width: 250px;
+	position: relative;
+}
+.fazenda{
+	float: left;
+	padding-top: 25px;
+	height: 190px;
+ 	padding-bottom: 10px;
+ 	padding-right: 20px;
+}
+
+.aldeias{
+	float: left;
+	padding-top: 25px;
+	height: 190px;
+ 	padding-bottom: 10px;
+ 	padding-right: 20px;
+}
+.cachorro{
+	float: left;
+	padding-top: 25px;
+	height: 190px;
+ 	padding-bottom: 10px;
+}
+.publi3, .publi5{
+	float: right;
+	padding-top: 5px;
+}
+
+.publi3{
+	height: 200px;
+}
+.publi5{
+	height: 146px;
+}
+.t1, .t2, .t3, .t4,.t5, .t6{
+	float: left;
+	padding-top: 5px;
+ 	color: #4682B4;
+ 	font-size: 17px;
+}
+.t1, .t2{
+	padding-right: 40px;
+}
+.escola{
+	float: left;
+	padding-top: 10px;
+	padding-right: 20px;
+	height: 190px;
+}
+.militar{
+	float: left;
+	padding-top: 10px;
+	height: 190px;
+	padding-right: 20px;
+
+	
+}
+.policia{
+	float: left;
+	padding-top: 10px;
+	height: 190px;
+}
+.publi4, .publi5{
+	float: right;
+
+}
+ .t4{
+ 	padding-right: 60px;
+ }
+ .t5{
+ 	padding-right: 80px;
+ }
+ .t4, .t5, .t6{
+ 		padding-top: 15px;
+ }
+.noticias{
+	padding-top: 12px;
+	clear: both;
+	width:580px;
+    height:25px;
+    background-color:#0000FF;
+    float: left;
+    color:white;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 5px;
+
+}
+
+
