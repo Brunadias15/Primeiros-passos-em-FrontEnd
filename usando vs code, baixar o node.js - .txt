@@ -1,0 +1,5 @@
+usando vs code, baixar o node.js - LTS
+no terminal do vs, usar o comando npm create vite, clicar em enter e colocar o nome do seu projeto. Escolher o framework, React não é um framework, mas está entre as opções, escolher ele e dps escolher JS. 
+cd .\nome-do-seu-projeto\ - para entrar na pasta do projeto
+npm i - para instalar as dependencias
+ npm run dev - para exucutar o projeto
